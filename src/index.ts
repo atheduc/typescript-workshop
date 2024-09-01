@@ -5,7 +5,7 @@ const longString =
 
 const trailing = 'Semicolon';
 
-const why = { am: 'I tabbed?' };
+const why = {am: 'I tabbed?'};
 
 const iWish = "I didn't have a trailing space...";
 
@@ -30,10 +30,10 @@ export function doSomeStuff(
   return;
 }
 
-import { filterLongWords } from './filter';
-import { thriceTheNum } from './map';
-import { getSlicedString } from './slice';
-import { logFruits } from './foreach';
+import {filterLongWords} from './filter';
+import {thriceTheNum} from './map';
+import {getSlicedString} from './slice';
+import {logFruits} from './foreach';
 
 const words = ['Berry', 'Banana', 'Mango', 'Dragon Fruit'];
 const numbers = [1, 2, 3, 4, 5];

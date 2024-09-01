@@ -1,8 +1,8 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
+'use strict';
+Object.defineProperty(exports, '__esModule', {value: true});
 exports.getSlicedString = void 0;
-const getSlicedString = (str) => {
-    return str.slice(0, 3);
+const getSlicedString = str => {
+  return str.slice(0, 3);
 };
 exports.getSlicedString = getSlicedString;
 const myString = 'JavaScript Workshop Activity in WebDev 2';
